@@ -64,7 +64,7 @@ For production bots, using @discordjs/opus should be considered a necessity, esp
 - [bufferutil](https://www.npmjs.com/package/bufferutil) for a much faster WebSocket connection (`npm install bufferutil`)
 - [utf-8-validate](https://www.npmjs.com/package/utf-8-validate) in combination with `bufferutil` for much faster WebSocket processing (`npm install utf-8-validate`)
 
-## Example usage
+## Example usage 
 
 ```js
 const Discord = require('discord.js');
