@@ -5,6 +5,7 @@ about: Report incorrect or unexpected behavior of discord.js
 title: ''
 labels: 's: unverified, type: bug'
 assignees: ''
+
 ---
 <!-- Use Discord for questions: https://discord.gg/bRCvFy9 -->
 
