@@ -54,7 +54,7 @@ The preferred audio engine is @discordjs/opus, as it performs significantly bett
 Using opusscript is only recommended for development environments where @discordjs/opus is tough to get working.
 For production bots, using @discordjs/opus should be considered a necessity, especially if they're going to be running on multiple servers.
 
-### Optional packages
+### Optional packages 
 
 - [zlib-sync](https://www.npmjs.com/package/zlib-sync) for WebSocket data compression and inflation (`npm install zlib-sync`)
 - [erlpack](https://github.com/discord/erlpack) for significantly faster WebSocket data (de)serialisation (`npm install discord/erlpack`)
@@ -64,7 +64,7 @@ For production bots, using @discordjs/opus should be considered a necessity, esp
 - [bufferutil](https://www.npmjs.com/package/bufferutil) for a much faster WebSocket connection (`npm install bufferutil`)
 - [utf-8-validate](https://www.npmjs.com/package/utf-8-validate) in combination with `bufferutil` for much faster WebSocket processing (`npm install utf-8-validate`)
 
-## Example usage
+## Example usage 
 
 ```js
 const Discord = require('discord.js');
